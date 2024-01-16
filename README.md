@@ -1,8 +1,8 @@
 # Topperworld_1-Guessing-Game-
-A simple Java-based guessing game where the player tries to guess a randomly generated number within a specified range.
-Features
+# A simple Java-based guessing game where the player tries to guess a randomly generated number within a specified range.
+# Features
 
-    Generates a random number between a user-defined lower and upper bound.
+    # Generates a random number between a user-defined lower and upper bound.
     Provides feedback after each guess, indicating whether the guess is too high, too low, or correct.
     Tracks the number of attempts taken to guess the correct number.
     Ensures input validation to keep the guessing within the specified range.
